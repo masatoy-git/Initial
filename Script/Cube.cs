@@ -14,6 +14,7 @@ public class Cube : MonoBehaviour
     {
         //UIの動きテストくん
         /*
+        ああ
         不必要
         if(Input.GetKeyDown(KeyCode.Space)){
             GameObject UICanvas = GameObject.FindGameObjectWithTag("UICanvas");
